@@ -20,12 +20,14 @@ Many individuals struggle to track expenses, manage budgets, and make informed f
 
 ## Project Objectives
 
-- Track and analyze personal financial data.
-- Calculate a Financial Health Score to measure financial wellness.
-- Benchmark user spending against similar user groups.
-- Recommend suitable investment portfolios based on risk and goals.
-- Simulate future financial outcomes and goal achievement.
-- Apply machine learning for spending prediction and financial insights.
+- Develop an intelligent personal finance management platform to help users track income, expenses, savings, and investments.
+- Calculate a Financial Health Score based on key financial indicators such as savings rate, debt burden, expense ratio, and emergency fund adequacy.
+- Compare user spending patterns with benchmark data from similar demographic and income groups.
+- Assess investment suitability based on financial health, risk tolerance, investment horizon, and financial goals.
+- Generate diversified portfolio recommendations using multiple investment options and risk-return analysis.
+- Provide financial simulations to evaluate the impact of different savings and investment strategies.
+- Predict future spending patterns and detect abnormal expenses using machine learning techniques.
+- Help users improve financial decision-making through personalized insights and recommendations.
 
 ## Tech Stack
 
