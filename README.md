@@ -18,6 +18,15 @@ Many individuals struggle to track expenses, manage budgets, and make informed f
 - Regional Spending Benchmark Analysis
 - Personalized Budget Recommendations
 
+## Project Objectives
+
+- Track and analyze personal financial data.
+- Calculate a Financial Health Score to measure financial wellness.
+- Benchmark user spending against similar user groups.
+- Recommend suitable investment portfolios based on risk and goals.
+- Simulate future financial outcomes and goal achievement.
+- Apply machine learning for spending prediction and financial insights.
+
 ## Tech Stack
 
 - Java
