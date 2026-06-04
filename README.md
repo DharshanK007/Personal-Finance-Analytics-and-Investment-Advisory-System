@@ -43,18 +43,29 @@ Many individuals struggle to track expenses, manage budgets, and make informed f
 
 ## MODULE IDENTIFICATION
 
-1. User Management Module
-2. Financial Data Management Module
-3. Financial Health Scoring Module
-4. Benchmark Intelligence Module
-5. Investment Intelligence Module
-6. Investment Suitability Analysis Module
-7. Portfolio Recommendation Module
-8. Portfolio Quality Assessment Module
-9. Financial Simulation Module
-10. Machine Learning & Analytics Module
-11. Dashboard & Visualization Module
-12. Administration Module
+### 1. User Management Module
+Manages user registration, login, authentication, profile information, and account settings. Ensures secure access to the platform.
+
+### 2. Financial Data Management Module
+Collects and manages financial information such as income, expenses, savings, loans, EMIs, investments, and financial goals.
+
+### 3. Financial Health Scoring Module
+Calculates the Financial Health Score (0-100) using factors such as savings rate, debt burden, expense ratio, emergency fund adequacy, investment discipline, and benchmark performance.
+
+### 4. Benchmark Intelligence Module
+Compares the user's financial behavior with similar demographic groups and government expenditure benchmarks to identify strengths and weaknesses.
+
+### 5. Investment Intelligence Module
+Provides information about various investment options including historical performance, expected returns, risk levels, liquidity, lock-in periods, and influencing market factors.
+
+### 6. Investment Suitability Analysis Module
+Calculates the Investment Suitability Score for each investment option based on user risk profile, financial goals, investment horizon, affordability, and liquidity requirements.
+
+### 7. Portfolio Recommendation Module
+Generates a personalized and diversified investment portfolio by allocating funds across suitable investment options to maximize returns while controlling risk.
+
+
+
 
 ## Tech Stack
 
