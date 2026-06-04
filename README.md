@@ -29,6 +29,21 @@ Many individuals struggle to track expenses, manage budgets, and make informed f
 - Predict future spending patterns and detect abnormal expenses using machine learning techniques.
 - Help users improve financial decision-making through personalized insights and recommendations.
 
+## MODULES
+
+1. User Management
+2. Financial Data Management
+3. Financial Health Scoring
+4. Benchmark Intelligence
+5. Investment Intelligence
+6. Investment Suitability Analysis
+7. Portfolio Recommendation
+8. Portfolio Quality Assessment
+9. Financial Simulation
+10. Machine Learning & Analytics
+11. Dashboard & Visualization
+12. Administration
+
 ## Tech Stack
 
 - Java
